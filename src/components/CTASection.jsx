@@ -8,7 +8,7 @@ const CTASection = () => {
     role: 'farmer',
     name: ''
   });
-  const [isSubmitted, setIsSubmitted] = useState(false);
+  // const [isSubmitted, setIsSubmitted] = useState(false);
 
   const roles = [
     { value: 'farmer', label: 'Farmer', icon: Users },
